@@ -150,6 +150,9 @@ Redistribution, modification, and unauthorized distribution of the application a
 
 See [LICENSE.txt](LICENSE.txt) for the complete terms.
 
----
+## 📸 Screenshots
+
+### Main Application
+![ProjectVault Main Window](SCREENSHOOT.PNG)
 
 **ProjectVault – Back up your projects. Keep what matters.**
